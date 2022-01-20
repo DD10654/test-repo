@@ -1,1 +1,1 @@
-Hello! Git Demo is cool
+Hello! Git Demo is cool!
